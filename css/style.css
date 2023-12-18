@@ -1,0 +1,255 @@
+.title {
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: #afafaf;
+}
+a{
+    text-decoration: none;
+}
+.title span {
+color: #FF6363;
+font-size: 40px;
+
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main img {
+    max-width: 600px;
+}
+.main-info {
+    max-width: 500px;
+}
+.main-info ul {
+    padding-left: 17px;
+}
+.main-info a{
+    color: #b43d3d;
+}
+
+.form {
+    max-width: 420px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.form h2{
+    text-align: center;
+    font-size: 35px;
+}
+.form input{
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #393E46;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.form textarea{
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #393E46;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.form ::-webkit-input-placeholder{
+    color: #393E46;
+}
+.form button{
+    background-color: #393E46;
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 23px;
+    color: #afafaf;
+    border: 2px solid #393E46;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.form button:hover{
+    border: 2px solid #b43d3d;
+    background-color: #afafaf;
+    color: black;
+}
+
+.text-wrapper-7 {
+    top: 0;
+    left: 4px;
+    font-weight: 700;
+    font-size: 48px;
+    font-family: "Jost", Helvetica;
+    color: #000;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    .group-8 {
+    width: auto;
+    height: auto;
+    top: 127px;
+    left: 0;
+    }
+    
+    .group-9 {
+    
+    width: auto;
+    height: auto;
+    top: 0;
+    left: 0;
+    }
+    .text-wrapper-8 {
+    
+    width: 354px;
+    top: 265px;
+    left: 17px;
+    font-family: "Jost", Helvetica;
+    font-weight: 600;
+    color: #000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    
+    .doggy {
+    width: 396px;
+    height: 235px;
+    top: 0;
+    left: -4px;
+    object-fit: cover;
+    }
+    
+    .group-10 {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+    top: 0;
+    left: 420px;
+    }
+    
+    .text-wrapper-9 {
+    top: 252px;
+    left: 0;
+    width: 354px;
+    font-family: "Jost", Helvetica;
+    font-weight: 600;
+    color: #000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    
+    .corny {
+    width: 362px;
+    height: 227px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    }
+    .group-11 {
+    width: auto;
+    height: auto;
+    top: 0;
+    left: 801px;
+    }
+    
+    .img-2 {
+    width: 388px;
+    height: 227px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    }
+    
+    .group-12 {
+
+    width: auto;
+    height: auto;
+    top: 447px;
+    left: 4px;
+    }
+    
+    .group-13 {
+    height: auto;
+    top: 38px;
+    width: auto;
+    left: 0;
+    }
+    
+    .text-wrapper-10 {
+    top: 266px;
+    left: 17px;
+    width: 354px;
+    font-family: "Jost", Helvetica;
+    font-weight: 600;
+    color: #000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    
+    .group-14 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 356px;
+    height: auto;
+    left: auto;
+    }
+    
+    .text-wrapper-11 {
+    width: 354px;
+    top: 304px;
+    left: 0;
+    font-family: "Jost", Helvetica;
+    font-weight: 600;
+    color: #000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    
+    .mobile-app {
+    width: 146px;
+    height: 304px;
+    top: 0;
+    left: 104px;
+    object-fit: cover;
+    }
+    
+    .group-15 {
+    width:auto;
+    height: auto;
+    top: 38px;
+    left: 797px;
+    }
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main2 img {
+    margin-top: 60px;
+    max-width: 600px;
+}
+.main-info2 {
+    max-width: 500px;
+}
+.main-info2 ul {
+    list-style-type: none;
+    padding-left: 17px;
+}
+.main-info2 img{
+    max-width: 80px;
+}
